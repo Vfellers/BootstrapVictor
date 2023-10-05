@@ -1,0 +1,23 @@
+.navegacao{
+    height: 60px;
+}
+
+.banner{
+    height: 300px;
+}
+
+.titulo{
+    height: 40px;
+    background: blue;
+    text-align: center;
+    color: white;
+}
+
+.itens{
+    height: 150px;
+}
+
+.itemGrande .row{
+    padding: 100px 0;
+    background: grey;
+}
