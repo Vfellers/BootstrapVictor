@@ -1,0 +1,47 @@
+.header{
+    border: 2px solid black;
+    height: 80px;
+    margin: 1% 0 1% 0;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 5px;
+}
+
+.carousel{
+    border: 2px solid black;
+    height: 200px;
+    margin: 0 0 1% 0;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    padding-top: 80px;
+}
+
+.item{
+    border: 2px solid black;
+    height: 60px;
+    margin: 0 0% 1% 0;
+    text-align: center;
+    color: green;
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 7px;
+}
+
+.blank{
+    border: 2px solid black;
+    height: 65px;
+    margin: 0 0% 1% 0;
+}
+
+.footer{
+    border: 2px solid black;
+    height: 200px;
+    margin: 0 0% 1% 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    padding-top: 60px;
+}
